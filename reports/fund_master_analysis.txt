@@ -1,0 +1,29 @@
+FUND MASTER ANALYSIS
+
+1. Unique Fund Houses:
+   - SBI Mutual Fund
+   - HDFC Mutual Fund
+   - ICICI Prudential MF
+   - Nippon India MF
+   - Axis Mutual Fund
+   - Kotak Mahindra MF
+
+2. Categories:
+   - Equity
+   - Debt
+   - Hybrid
+   - Index/ETF
+
+3. Sub Categories:
+   - Large Cap
+   - Mid Cap
+   - Small Cap
+   - Flexi Cap
+   - Gilt
+   - Liquid
+
+4. Risk Categories:
+   - Low
+   - Moderate
+   - High
+   - Very High
