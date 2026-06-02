@@ -1,0 +1,10 @@
+DATA QUALITY SUMMARY
+
+1. Loaded all 10 datasets.
+2. Verified shape and datatype.
+3. Checked missing values.
+4. Explored fund master.
+5. Verified AMFI codes.
+6. Downloaded live NAV data from MFAPI.
+7. Saved raw NAV files.
+8. Data ready for cleaning.

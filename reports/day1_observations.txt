@@ -1,0 +1,9 @@
+01_fund_master.csv
+- No missing values
+
+02_nav_history.csv
+- Date column stored as text
+- No duplicates
+
+05_category_inflows.csv
+- Some missing values in inflow column
